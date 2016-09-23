@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="pref_ipAddress"
+        android:title="IP address"
+        android:defaultValue="" />
+    <EditTextPreference
+        android:key="pref_apiKey"
+        android:title="@string/client_access_key"
+        android:defaultValue="9dce7cf795894b2394caa1576c11ad97" />
+    <EditTextPreference
+        android:key="pref_subscriptionKey"
+        android:title="@string/subscription_key"
+        android:defaultValue="ca5e1561-e19b-4011-a130-f1d5004d677a" />
+</PreferenceScreen>

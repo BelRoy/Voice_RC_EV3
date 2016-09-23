@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sdk-1.7.6">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/ai.api/sdk/1.7.6/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/ai.api/sdk/1.7.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.api/sdk/1.7.6/a4a8220fee228fcd0d9a83353a723c1a937b7e07/sdk-1.7.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

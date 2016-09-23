@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Voice RC EV3</string>
+    <string name="rec_comm">Recognized command</string>
+    <string name="setting">Settings</string>
+    <string name="connect">Connect</string>
+    <string name="address">Robot IP</string>
+    <string name="client_access_key">Client access key</string>
+    <string name="subscription_key">Subscription key</string>
+</resources>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iSpeech-SDK-1.4.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/iSpeech-SDK-1.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
